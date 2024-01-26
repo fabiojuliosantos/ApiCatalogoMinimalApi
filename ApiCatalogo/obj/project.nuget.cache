@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5C9MpitRKvZQdb4E03L0FnNjVjPcI5J6+fY0sKjefxNbZpRNTgOR7UP+slW8C2+htZwht/VFRK5CWVFl/WyC0A==",
+  "dgSpecHash": "mVQ2SxJuidMbp310QUM1RX4qwKyv8c1mbP2axpkxwSz/6oqCzTIo4Uqj1fLRgEoUDXrqHm74F/bZYuNfWoOX6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fábio Júlio\\source\\repos\\fabiojuliosantos\\ApiCatalogoMinimalApi\\ApiCatalogo\\ApiCatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fábio Júlio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Fábio Júlio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Fábio Júlio\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Fábio Júlio\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.0\\microsoft.aspnetcore.authentication.jwtbearer.7.0.0.nupkg.sha512",
     "C:\\Users\\Fábio Júlio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Fábio Júlio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Fábio Júlio\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

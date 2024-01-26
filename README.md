@@ -10,7 +10,8 @@ Todos os recursos necessários ficam presentes na classe Program.cs como classes
 
 #### Tecnologias utilizadas:
 - .Net 7;
-- SQL Server (ou outro banco de preferência)
+- SQL Server (ou outro banco de preferência);
+- JWT
 
 #### Rotas do projeto
 
