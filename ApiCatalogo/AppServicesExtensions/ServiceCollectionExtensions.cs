@@ -14,7 +14,7 @@ public static class ServiceCollectionExtensions
 
     public static WebApplicationBuilder AddApiSwagger(this WebApplicationBuilder builder)
     {
-        builder.Services.AddSwaggerGen();
+        builder.Services.AddSwagger();
         return builder;
     }
     public static IServiceCollection AddSwagger(this IServiceCollection services)
@@ -32,7 +32,7 @@ public static class ServiceCollectionExtensions
                 BearerFormat = "JWT",
                 In = ParameterLocation.Header,
                 Description = @"JWT Authorization header using the Bearer scheme.
-                        Enter 'Bearer' [space].Example: \'Bearer 12345abcdef/'",
+                Enter 'Bearer' [space].Example: \'Bearer 12345abcdef/'",
             });
 
             c.AddSecurityRequirement(new OpenApiSecurityRequirement

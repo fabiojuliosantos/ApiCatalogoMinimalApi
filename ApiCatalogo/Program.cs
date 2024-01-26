@@ -1,7 +1,6 @@
 using ApiCatalogo.ApiEndpoints;
 using ApiCatalogo.AppServicesExtensions;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.AddApiSwagger();
